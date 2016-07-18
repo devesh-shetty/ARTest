@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ARTest</string>
+    <string name="altitudeButtonLabel">Update Altitude</string>
+    <string name="altitudeLabel">Altitude in \n 5 minutes</string>
+</resources>
