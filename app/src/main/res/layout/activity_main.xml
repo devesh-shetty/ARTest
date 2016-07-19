@@ -9,7 +9,7 @@
         android:id="@+id/cameraPreview"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent" />
-    <com.paar.ch4ardemo.HorizonView
+    <com.artest.www.artest.HorizonView
         android:id="@+id/horizonView"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
